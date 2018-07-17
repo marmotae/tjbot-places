@@ -5,9 +5,9 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhi11210646/place-search-sdk.git"
+    "url": "git+https://github.com/marmotae/tjbot-places.git"
   },
-  "author": "Abhishek Singh",
+  "author": "Baltazar Rodriguez",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,11 +18,11 @@
     "api",
     "querystring"
   ],
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/abhi11210646/place-search-sdk/issues"
   },
-  "homepage": "https://github.com/abhi11210646/place-search-sdk#readme",
+  "homepage": "https://github.com/marmotae/tjbot-places.git#readme",
   "dependencies": {
     "got": "6.7.1",
     "querystring": "0.2.0"
