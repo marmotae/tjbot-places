@@ -1,6 +1,6 @@
 {
   "name": "tjbot-places",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Simplified google places component for TBBot lab",
   "main": "server.js",
   "repository": {
