@@ -1,6 +1,6 @@
 {
   "name": "tjbot-places",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simplified google places component for TBBot lab",
   "main": "server.js",
   "repository": {
@@ -18,7 +18,7 @@
     "api",
     "querystring"
   ],
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/abhi11210646/place-search-sdk/issues"
   },
@@ -26,5 +26,8 @@
   "dependencies": {
     "got": "6.7.1",
     "querystring": "0.2.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
